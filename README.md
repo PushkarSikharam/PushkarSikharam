@@ -2,7 +2,7 @@
 
 #### Software Engineer | Backend & Full-Stack Systems
 
-- 🔭 I’m currently building Agentic workflows and full-stack systems at [![Leap]](https://www.nxleap.com/)
+- 🔭 I’m currently building Agentic workflows and full-stack systems at [Leap Innovations](https://www.nxleap.com/)
 - ⚡ Core Stack: Python, TypeScript, FastAPI, Next.js, PostgreSQL, Docker, AWS
 - 💬 Ask me about **FastAPI architectures, LLM/RAG integration, and cloud deployment (AWS/Docker)**
 - 📫 How to reach me **saipushkarsikharam@gmail.com**
